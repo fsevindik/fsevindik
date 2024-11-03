@@ -13,7 +13,7 @@
 - 🌱 I'm currently improving myself to become a proficient **Full-Stack Developer**  
 - 💾 Most of my projects are available at https://github.com/fsevindik?tab=repositories  
 - 📫 How to reach me **fsevindik2923@gmail.com**  
-- 🌐 Welcome to my own portfolio page **https://fsevindik.github.io/myportfolio/**  
+- 🌐 Welcome to my own portfolio page [https://fsevindik.github.io/myportfolio/](https://fsevindik.github.io/myportfolio/)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/murat-can-7660a8282/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
