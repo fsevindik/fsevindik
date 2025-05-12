@@ -9,12 +9,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsevindik" alt="fsevindik" /></a>
 </p>
 
-- 🔭 My current project is [filmolog ](https://github.com/fsevindik/blog)  
+- 🔭 My current project is [filmolog](https://github.com/fsevindik/blog)  
 - 🌱 I'm currently improving myself to become a proficient **Full-Stack Developer**  
-- 💾 Most of my projects are available at https://github.com/fsevindik?tab=repositories  
-- 📫 How to reach me **fsevindik2923@gmail.com**
--  🌐 My portfolio page [Portfolio] (https://fsevindik.github.io/portfoliopage/)
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/murat-can-7660a8282/)
+- 💾 Most of my projects are available at [My Repositories](https://github.com/fsevindik?tab=repositories)  
+- 📫 How to reach me: **fsevindik2923@gmail.com**  
+- 🌐 My portfolio page: [Portfolio](https://fsevindik.github.io/portfoliopage/)  
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/fsevindik/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -47,11 +48,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-</a>
-
-
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
@@ -64,11 +63,13 @@
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="linux" width="40" height="40"/> 
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
 </p>
-
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratcan23&show_icons=true&locale=en&layout=compact" alt="muratcan23" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsevindik&show_icons=true&locale=en&layout=compact" alt="fsevindik" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcan23&show_icons=true&locale=en" alt="fsevindik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsevindik&show_icons=true&locale=en" alt="fsevindik" /></p>
